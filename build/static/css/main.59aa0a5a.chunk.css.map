@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,aACI,+BACJ","file":"main.59aa0a5a.chunk.css","sourcesContent":["\n\n#hover:hover{\n    border-radius: 1px solid #a4508b;\n}"]}
